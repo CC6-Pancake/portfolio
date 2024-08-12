@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #1f60d1;
     color: white;
     padding: 10px 0;
 }
@@ -53,7 +53,7 @@ nav a:hover {
 .cta-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #333;
+    background-color: #1f60d1;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -106,7 +106,7 @@ nav a:hover {
 }
 
 .contact {
-    background-color: #333;
+    background-color: #1f60d1;
     color: white;
     padding: 100px 0;
     text-align: center;
@@ -123,7 +123,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #1f60d1;
     color: white;
     text-align: center;
     padding: 20px 0;

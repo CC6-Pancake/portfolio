@@ -22,10 +22,19 @@
 ###
 
 ![alt text](4405.jpg)
-![alt text](4406.jpg)
-![alt text](4407.jpg)
-![alt text](4408-1.jpg)
+<p align="center">This image shows the homepage of the Cozy Cup Cafe system.
 
+#
+![alt text](4406.jpg)
+<p align="center">This image displays the available menu items.
+
+#
+![alt text](4407.jpg)
+<p align="center">This image shows how users select and add items to their order.
+
+#
+![alt text](4408-1.jpg)
+<p align="center">This image shows the final order summary and total cost.
 
 
 
